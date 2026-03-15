@@ -101,11 +101,11 @@ h2 + p {
 
 a {
     color: var(--txt);
-    text-decoration: none;           /* text-decoration */
+    text-decoration: none;           
 }
 
 a:hover {
-    color: var(--c10);               /* 10% teal on hover */
+    color: var(--c10);               
     text-decoration: none;
 }
 
@@ -120,7 +120,7 @@ strong {
 }
 
 img {
-    display: block;                  /* display: block */
+    display: block;                
     max-width: 100%;
     height: auto;
 }
@@ -132,7 +132,7 @@ fieldset {
 }
 
 legend {
-    display: none;                   /* display: none */
+    display: none;            
 }
 
 
